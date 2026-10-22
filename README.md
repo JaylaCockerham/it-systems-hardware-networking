@@ -1,5 +1,6 @@
 # it-systems-hardware-networking
-This project depicts my IT skills and knowledge developed through my coursework at Florida A&amp;M University. Through virtual machines, readings, and guided technical activities I explored opperating systems, network configuration, computer hardware, and network services. 
+This project depicts my IT skills and knowledge developed through my coursework at Florida A&amp;M University. Through virtual machines, readings, and guided technical activities, I explored operating systems, network configuration, computer hardware, and network services. 
+
 Technical Skills Practiced
 
 1. Computer Hardware
